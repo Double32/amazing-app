@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e production-3go57cpi295910e9 --n quickstartFunctions --r --project "/Users/zhanghongda/Documents/workspeace/amazing-app" --report_first --report
